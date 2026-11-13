@@ -13,7 +13,7 @@ Welcome to my daily problem-solving repository! My goal is to solve **at least o
 | Day | Problem | Difficulty | Language | Solution & Notes |
 | :-: | :--- | :---: | :---: | :--- |
 | 01 | [Two Sum](https://leetcode.com/problems/two-sum/) | Easy | JavaScript | [Folder](./01-two-sum) |
-| 02 | *Coming soon...* | - | - | - |
+| 02 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/) | Medium | JavaScript | [Folder](./02-reverse-integer) |
 
 ## 📁 Repository Structure
 
@@ -23,7 +23,7 @@ Each daily problem is organized into its own numbered folder containing the solu
 ├── 01-two-sum/
 │   ├── solution.js
 │   └── README.md
-├── 02-next-problem/
+├── 02-reverse-integer/
 │   ├── solution.js
 │   └── README.md
 └── README.md
